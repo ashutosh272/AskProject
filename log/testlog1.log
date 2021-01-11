@@ -1,0 +1,192 @@
+2021-01-09 17:04:35,393 [main] INFO searchElement - website is opened successfully 
+2021-01-09 17:04:36,378 [main] INFO searchElement - User is in Home page
+2021-01-09 17:04:44,259 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 17:04:49,012 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 17:04:54,025 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 17:04:57,258 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 17:05:05,005 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 17:05:13,776 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 21:22:56,621 [main] INFO searchElement - website is opened successfully 
+2021-01-09 21:22:57,193 [main] INFO searchElement - User is in Home page
+2021-01-09 21:24:51,711 [main] INFO searchElement - website is opened successfully 
+2021-01-09 21:24:52,175 [main] INFO searchElement - User is in Home page
+2021-01-09 21:24:59,774 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 21:25:04,508 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 21:25:11,069 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 21:25:14,305 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 21:25:22,156 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 21:25:29,672 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 21:52:37,753 [TestNG-test=Test-2] INFO searchElement - website is opened successfully 
+2021-01-09 21:52:38,844 [TestNG-test=Test-2] INFO searchElement - User is in Home page
+2021-01-09 21:52:46,932 [TestNG-test=Test-2] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 21:53:28,852 [TestNG-test=Test-2] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 21:54:10,705 [TestNG-test=Test-1] INFO searchElement - website is opened successfully 
+2021-01-09 21:54:11,386 [TestNG-test=Test-2] INFO searchElement - User is in Home page
+2021-01-09 21:54:19,377 [TestNG-test=Test-2] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 21:54:50,882 [TestNG-test=Test-2] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 21:54:55,702 [TestNG-test=Test-2] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 21:54:58,921 [TestNG-test=Test-2] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 21:55:07,133 [TestNG-test=Test-2] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 21:55:14,702 [TestNG-test=Test-2] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 21:58:45,526 [main] INFO searchElement - website is opened successfully 
+2021-01-09 21:59:23,273 [main] INFO searchElement - User is in Home page
+2021-01-09 21:59:30,399 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 21:59:35,152 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 21:59:40,077 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 21:59:43,312 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 21:59:50,163 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 21:59:57,467 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 22:04:51,723 [main] INFO searchElement - website is opened successfully 
+2021-01-09 22:05:27,731 [main] INFO searchElement - User is in Home page
+2021-01-09 22:05:34,316 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 22:05:39,025 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 22:05:44,590 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 22:05:47,868 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 22:05:55,372 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 22:06:02,815 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 22:06:08,157 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 22:12:14,870 [main] INFO searchElement - website is opened successfully 
+2021-01-09 22:12:51,016 [main] INFO searchElement - User is in Home page
+2021-01-09 22:12:58,317 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 22:13:03,012 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 22:13:07,651 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 22:13:10,869 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 22:13:17,916 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 22:13:25,703 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 22:13:30,703 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 22:16:31,860 [TestNG-test=Test-2] INFO searchElement - website is opened successfully 
+2021-01-09 22:16:34,506 [TestNG-test=Test-2] INFO searchElement - User is in Home page
+2021-01-09 22:16:44,662 [TestNG-test=Test-2] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 22:16:49,358 [TestNG-test=Test-2] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 22:18:00,509 [TestNG-test=Test-1] INFO searchElement - website is opened successfully 
+2021-01-09 22:18:01,344 [TestNG-test=Test-2] INFO searchElement - User is in Home page
+2021-01-09 22:18:38,159 [TestNG-test=Test-2] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 22:18:42,973 [TestNG-test=Test-2] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 22:18:48,255 [TestNG-test=Test-2] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 22:18:51,482 [TestNG-test=Test-2] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 22:18:58,863 [TestNG-test=Test-2] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 22:19:05,952 [TestNG-test=Test-2] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 22:19:10,832 [TestNG-test=Test-2] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 22:22:29,482 [main] INFO searchElement - website is opened successfully 
+2021-01-09 22:23:05,714 [main] INFO searchElement - User is in Home page
+2021-01-09 22:23:12,468 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 22:23:17,086 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 22:23:21,853 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 22:23:25,120 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 22:23:33,002 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 22:23:39,962 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 22:23:49,576 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 22:25:17,460 [main] INFO searchElement - website is opened successfully 
+2021-01-09 22:25:53,174 [main] INFO searchElement - User is in Home page
+2021-01-09 22:26:00,107 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 22:26:04,833 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 22:26:09,779 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 22:26:13,004 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 22:26:21,679 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 22:26:28,680 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 22:26:33,565 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:07:49,025 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:07:49,819 [main] INFO searchElement - User is in Home page
+2021-01-09 23:07:57,953 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:08:02,634 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:08:08,833 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:08:12,095 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:08:19,334 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:08:25,866 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:08:31,934 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:18:56,324 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:18:56,824 [main] INFO searchElement - User is in Home page
+2021-01-09 23:19:03,597 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:19:08,314 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:19:13,545 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:19:16,788 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:19:26,484 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:19:34,822 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:19:39,717 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:23:30,902 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:23:31,386 [main] INFO searchElement - User is in Home page
+2021-01-09 23:23:40,061 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:23:44,771 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:23:50,225 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:23:53,501 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:24:00,204 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:24:07,609 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:24:12,574 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:27:13,681 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:27:14,106 [main] INFO searchElement - User is in Home page
+2021-01-09 23:27:23,040 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:27:27,760 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:27:32,722 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:27:35,969 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:27:45,454 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:27:53,104 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:27:57,992 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:31:17,594 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:31:18,078 [main] INFO searchElement - User is in Home page
+2021-01-09 23:31:24,511 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:31:29,264 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:31:33,530 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:31:36,799 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:31:44,504 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:31:51,729 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:31:56,587 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:32:28,683 [main] INFO searchElement -  User provided the data successfully . 
+2021-01-09 23:34:05,544 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:34:05,983 [main] INFO searchElement - User is in Home page
+2021-01-09 23:34:12,704 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:34:17,432 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:34:22,524 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:34:25,762 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:34:32,714 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:34:39,726 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:34:44,610 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:36:51,962 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:36:52,334 [main] INFO searchElement - User is in Home page
+2021-01-09 23:36:59,627 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:37:04,316 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:37:09,631 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:37:12,923 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:37:20,065 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:37:28,039 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:37:32,857 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:42:55,715 [main] INFO searchElement - website is opened successfully 
+2021-01-09 23:42:56,056 [main] INFO searchElement - User is in Home page
+2021-01-09 23:43:03,697 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-09 23:43:08,425 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-09 23:43:13,066 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-09 23:43:16,318 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-09 23:43:22,961 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-09 23:43:29,664 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-09 23:43:34,615 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-09 23:44:16,407 [main] INFO searchElement -  User provided the data successfully . 
+2021-01-10 09:42:55,046 [main] INFO searchElement - website is opened successfully 
+2021-01-10 09:42:57,154 [main] INFO searchElement - User is in Home page
+2021-01-10 09:43:05,576 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-10 09:43:10,393 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-10 09:43:15,915 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-10 09:43:19,161 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-10 09:43:27,184 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-10 09:43:34,619 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-10 09:43:40,383 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-10 09:45:02,118 [main] INFO searchElement - website is opened successfully 
+2021-01-10 09:45:02,711 [main] INFO searchElement - User is in Home page
+2021-01-10 09:45:09,933 [main] INFO searchElement - User is in Summer Dresses Page
+2021-01-10 09:45:14,604 [main] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-10 09:45:20,236 [main] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-10 09:45:23,476 [main] INFO searchElement - User clicked on continue button successfully ..
+2021-01-10 09:45:30,174 [main] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-10 09:45:37,111 [main] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-10 09:45:42,262 [main] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-10 09:46:23,380 [main] INFO searchElement -  User provided the data successfully . 
+2021-01-10 09:46:37,853 [main] INFO searchElement -  correct product is selected in Payment tab.
+2021-01-10 10:02:43,925 [TestNG-test=Test-1] INFO searchElement - website is opened successfully 
+2021-01-10 10:02:44,375 [TestNG-test=Test-1] INFO searchElement - User is in Home page
+2021-01-10 10:02:52,993 [TestNG-test=Test-1] INFO searchElement - User is in Summer Dresses Page
+2021-01-10 10:02:57,765 [TestNG-test=Test-1] INFO searchElement - User Mouse Moved Printed Summer Dress' and click 'Quick view' button succesfully 
+2021-01-10 10:03:02,793 [TestNG-test=Test-1] INFO searchElement - User Select the S size and click on Add to card successfully ...
+2021-01-10 10:03:06,030 [TestNG-test=Test-1] INFO searchElement - User clicked on continue button successfully ..
+2021-01-10 10:03:13,261 [TestNG-test=Test-1] INFO searchElement - user is mouse Over to Cart section and click Check Out' button successfully 
+2021-01-10 10:03:20,455 [TestNG-test=Test-1] INFO searchElement -  User is Clicked Proceed to checkout button successfully 
+2021-01-10 10:03:25,727 [TestNG-test=Test-1] INFO searchElement -  User is provide the mail Id and click create account 
+2021-01-10 10:04:09,226 [TestNG-test=Test-2] INFO searchElement -  User provided the data successfully . 
+2021-01-10 10:04:20,126 [TestNG-test=Test-2] INFO searchElement -  correct product is selected in Payment tab.

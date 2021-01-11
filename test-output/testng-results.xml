@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="123043" started-at="2021-01-10T04:32:17Z" finished-at="2021-01-10T04:34:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="123043" started-at="2021-01-10T04:32:17Z" finished-at="2021-01-10T04:34:20Z">
+      <class name="com.Amazon.TestExecution.searchElement">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.Amazon.TestExecution.searchElement@59ec2012]" name="setUpBrowser" is-config="true" duration-ms="26518" started-at="2021-01-10T10:02:17Z" finished-at="2021-01-10T10:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="verifyPage()[pri:1, instance:com.Amazon.TestExecution.searchElement@59ec2012]" name="verifyPage" duration-ms="41606" started-at="2021-01-10T10:02:44Z" finished-at="2021-01-10T10:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPage -->
+        <test-method status="PASS" signature="signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.Amazon.TestExecution.searchElement@59ec2012]" name="signUp" duration-ms="31605" started-at="2021-01-10T10:03:37Z" data-provider="SingupData" finished-at="2021-01-10T10:04:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[316 Ann Ave. Lanaudière-Nord, QC J0K 7Y6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Red Deer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Arizona]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[202-555-0165]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="proceedToPaymnetTab()[pri:3, instance:com.Amazon.TestExecution.searchElement@59ec2012]" name="proceedToPaymnetTab" duration-ms="10886" started-at="2021-01-10T10:04:09Z" finished-at="2021-01-10T10:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToPaymnetTab -->
+        <test-method status="PASS" signature="closeBwoser()[pri:0, instance:com.Amazon.TestExecution.searchElement@59ec2012]" name="closeBwoser" is-config="true" duration-ms="284" started-at="2021-01-10T10:04:20Z" finished-at="2021-01-10T10:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBwoser -->
+      </class> <!-- com.Amazon.TestExecution.searchElement -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
